@@ -25,3 +25,4 @@ git clone https://github.com/MateusProvensi/Pedra-Papel-Tesoura-Lagarto-Spok.git
 1. Now, you just need run the file 'jogo_principal.py'
 
 # Have Fun
+
