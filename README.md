@@ -25,6 +25,8 @@ git clone https://github.com/MateusProvensi/Pedra-Papel-Tesoura-Lagarto-Spok.git
 ```
 2. Now, you just need run the file 'jogo_principal.py'
 
+The code is in Brazilian Portuguese, because it's my primary language.
+
 ## 🔗Technologies
 
 - [Python](https://www.python.org/)
