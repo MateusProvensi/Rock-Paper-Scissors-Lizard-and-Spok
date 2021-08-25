@@ -6,25 +6,15 @@
 
 ### 🎮🕹How to play
 
-* Scissors cuts Paper
 * ✂ cuts 🧻
-* Paper cover Rock
 * 🧻 cover 🗿
-* Rock crushes Lizard
 * 🗿 crushes 🦎
-* Lizard posions Spock
 * 🦎 posions 🖖
-* Spock smashes Scissors
 * 🖖 smashes ✂
-* Scissors decapitates Lizard
 * ✂ decapitates 🦎
-* Lizard eats Paper
 * 🦎 eats 🧻
-* Paper disproves Spock
 * 🧻 desproves 🖖
-* Spock vaporizes Rock
 * 🖖 vaporizes 🗿
-* Rock crushes Scissors
 * 🗿 crushes ✂
 
 ### 👨‍💻👩‍💻How Can I put in my machine?
