@@ -1,4 +1,4 @@
-# Rock Paper Scissors Spock Lizard (🥌,🧻, ✂, 🦎, 🖖)
+# Rock Paper Scissors Spock Lizard (🥌,🧻, ✂, 🖖, 🦎)
 
 RPSSL is an adaptation of the popular game 'Rock Paper Scissors', it was popularized by TBBT series.
 
