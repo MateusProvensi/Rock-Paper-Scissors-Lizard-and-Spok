@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors, Spock and Lizard (🥌,🧻, ✂, 🖖 and 🦎)
+# Rock, Paper, Scissors, Spock and Lizard (🗿,🧻, ✂, 🖖 and 🦎)
 
 ### 📚History abstract
 
