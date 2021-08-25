@@ -1,8 +1,8 @@
-# Rock Paper Scissors Spock Lizard
+# Rock Paper Scissors Spock Lizard (🥌,🧻, ✂, 🦎, 🖖)
 
 RPSSL is an adaptation of the popular game 'Rock Paper Scissors', it was popularized by TBBT series.
 
-### How to play
+### 🎮🕹How to play
 
 * Scissors cuts Paper
 * Paper cover Rock
@@ -15,13 +15,12 @@ RPSSL is an adaptation of the popular game 'Rock Paper Scissors', it was popular
 * Spock vaporizes Rock
 * Rock crushes Scissors
 
-### How Can I put in my machine?
+### 👨‍💻👩‍💻How Can I put in my machine?
 
 1. Clone this repository with the command:
 ```
 git clone https://github.com/MateusProvensi/Pedra-Papel-Tesoura-Lagarto-Spok.git
 ```
-1. Now, you just need run the file 'jogo_principal.py'
+2. Now, you just need run the file 'jogo_principal.py'
 
 # Have Fun
-
